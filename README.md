@@ -12,3 +12,4 @@ rosrun roborts_decision behavior_test_node
  启动MPPI算法
  
  roslaunch mppi_3d mppi_3d_a.launch
+file:///home/smart/Pictures/Screenshot%20from%202024-12-18%2010-35-58%20-%201.png![image](https://github.com/user-attachments/assets/ec66d1ac-f56a-49c4-9f26-9d0ad43bed5d)
